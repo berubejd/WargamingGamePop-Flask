@@ -1,0 +1,9 @@
+{% extends 'layout.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    <div id="chart">
+        <embed type="image/svg+xml" src="{{ chart|safe }}" />
+     </div>
+{% endblock %}
