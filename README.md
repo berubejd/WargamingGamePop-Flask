@@ -8,7 +8,7 @@ I kicked off this Flask project using the [Flask-Starter](https://github.com/ber
 
 ## Screenshot
 
-![Wargaming WoT Flask Screenshot](images/wotf.png?raw-true | width=250)
+![Wargaming WoT Flask Screenshot](images/wotf.png?raw-true)
 
 ## API Access
 The API request is sent to all four current regions: NA, EU, RU, and Asia.  While a relatively simple JSON structure, the resulting response for each region that needs to be parsed looks like:
